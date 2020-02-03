@@ -116,6 +116,13 @@
             <version>${tomcat.version}</version>
         </dependency>
 
+        <!--  SPRING WEBMVC      -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>5.2.2.RELEASE</version>
+        </dependency>
+
 
     </dependencies>
 </project>

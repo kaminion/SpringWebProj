@@ -48,6 +48,8 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.5.23" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jasper-el:8.5.23" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.5.23" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.2.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">
